@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cardprofile/static/css/main.e78c3e98.chunk.css",
+    "main.js": "/cardprofile/static/js/main.25c6ed0e.chunk.js",
+    "main.js.map": "/cardprofile/static/js/main.25c6ed0e.chunk.js.map",
+    "runtime-main.js": "/cardprofile/static/js/runtime-main.db4edf60.js",
+    "runtime-main.js.map": "/cardprofile/static/js/runtime-main.db4edf60.js.map",
+    "static/js/2.08cd8c22.chunk.js": "/cardprofile/static/js/2.08cd8c22.chunk.js",
+    "static/js/2.08cd8c22.chunk.js.map": "/cardprofile/static/js/2.08cd8c22.chunk.js.map",
+    "static/js/3.f2232011.chunk.js": "/cardprofile/static/js/3.f2232011.chunk.js",
+    "static/js/3.f2232011.chunk.js.map": "/cardprofile/static/js/3.f2232011.chunk.js.map",
+    "index.html": "/cardprofile/index.html",
+    "static/css/main.e78c3e98.chunk.css.map": "/cardprofile/static/css/main.e78c3e98.chunk.css.map",
+    "static/js/2.08cd8c22.chunk.js.LICENSE.txt": "/cardprofile/static/js/2.08cd8c22.chunk.js.LICENSE.txt",
+    "static/media/afro-pic.55b10fa8.PNG": "/cardprofile/static/media/afro-pic.55b10fa8.PNG",
+    "static/media/App.css": "/cardprofile/static/media/pexels-anna-tis-5633515.3c8f31fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4edf60.js",
+    "static/js/2.08cd8c22.chunk.js",
+    "static/css/main.e78c3e98.chunk.css",
+    "static/js/main.25c6ed0e.chunk.js"
+  ]
+}
